@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxTreeList with XPO objects in virtual mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2107/)**
+<!-- run online end -->
 
 
 <p>You can bind the ASPxTreeList to eXpress Persistent Objects as shown in our <a href="https://www.devexpress.com/Support/Center/p/E1288">How to bind ASPxTreeList to XPO data</a> example. However, if the number of persistent objects to be loaded into the TreeList is very large, you may want to load objects for only expanded nodes  to save memory and improve performance. In this case, use <a href="http://documentation.devexpress.com/#AspNet/CustomDocument4008">Virtual Mode</a> to load persistent objects.</p><p><strong>See Also:</strong><br />
